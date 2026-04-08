@@ -10,3 +10,4 @@ Projeto desenvolvido para o desafio técnico da Avanade.
 1. No terminal da `TarefasApi`, rode `dotnet run`.
 2. No terminal da `TarefasFront`, rode `ng serve`.
 3. Acesse `http://localhost:4200`.
+[![GitHub Repo](https://shields.io)](https://github.com)
